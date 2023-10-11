@@ -1,2 +1,9 @@
-# GroceryStoreWebsite
-A RESPONSIVE WEBSITE on the theme of a grocery store 
+GROCERY STORE WEBSITE
+
+------------------------------------------------------
+
+
+A Responsive website for grocery shopping
+
+
+
